@@ -6,4 +6,5 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-![](images/demo.jpg)
+
+<img src="images/demo.jpg" width="230" height="430" >
